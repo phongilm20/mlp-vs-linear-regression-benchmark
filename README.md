@@ -29,5 +29,5 @@ While Neural Networks are powerful, they are not a "silver bullet." For linear p
 * **Libraries:** `PyTorch`, `Scikit-learn`, `NumPy`, `Matplotlib`
 
 ---
-**Author:** [Điền Tên Bạn Vào Đây]
+**Author:** Xuan Thanh Phong Nguyen
 **Date:** November 2025
