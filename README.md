@@ -13,7 +13,6 @@ We conducted 3 controlled experiments using Python (`PyTorch` & `Scikit-learn`):
 
 ### 📈 Key Findings (Results)
 ![Result Chart](result_chart.png)
-*(Please upload your chart image to the repo and ensure the filename matches)*
 
 1.  **Instability of MLP:** On small datasets ($N < 50$), the Neural Network showed high variance and instability compared to the consistent baseline of Linear Regression.
 2.  **Overfitting to Noise:** As shown in the middle chart, while Linear Regression remained robust, the MLP tended to overfit the noise, leading to significantly higher MSE loss.
